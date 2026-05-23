@@ -1,7 +1,0 @@
-1|Le Petit Prince|Antoine de Saint-Exupery|Litterature
-2|1984|George Orwell|Science-Fiction
-3|L'Etranger|Albert Camus|Litterature
-4|Harry Potter et la Philosophie|J.K. Rowling|Fantasy
-5|Les Miserables|Victor Hugo|Litterature
-6|Dune|Frank Herbert|Science-Fiction
-7|Le Seigneur des Anneaux|J.R.R. Tolkien|Fantasy
